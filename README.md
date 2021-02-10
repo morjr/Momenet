@@ -20,7 +20,7 @@ Please cite our paper:
 
 ### Classic Momenet
 
-To train a model run: python train.py
+To train a model run: python train.py  
 To test the model run: python evaluate.py
 
 #### Dataset - <a href="http://modelnet.cs.princeton.edu/" target="_blank">ModelNet40</a>
